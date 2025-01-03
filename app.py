@@ -12,7 +12,7 @@ import logging
 import json
 from flask import Flask, jsonify, request
 from sentence_transformers import SentenceTransformer, util
-from flask_caching import Cache
+# from flask_caching import Cache
 from transformers import pipeline
 import torch
 import time
