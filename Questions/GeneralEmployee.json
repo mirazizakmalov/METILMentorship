@@ -1,0 +1,200 @@
+{
+    "questions_and_answers": [
+      {
+        "question": "What is the purpose of the General Employee Radiological Training (GERT)?",
+        "answer": "The purpose of GERT is to provide general employees with sufficient knowledge of radiological fundamentals and radiation protection concepts to safely access controlled areas at DOE sites or facilities.",
+        "page_number": 3
+      },
+      {
+        "question": "What are the two primary types of radiation discussed in GERT?",
+        "answer": "The two primary types of radiation are ionizing radiation (e.g., alpha particles, beta particles, neutrons, gamma rays) and non-ionizing radiation (e.g., microwaves, radio waves, visible light).",
+        "page_number": 4
+      },
+      {
+        "question": "What is ionizing radiation?",
+        "answer": "Ionizing radiation has enough energy to remove electrons from electrically neutral atoms, potentially causing biological damage.",
+        "page_number": 5
+      },
+      {
+        "question": "What is the primary source of natural background radiation?",
+        "answer": "The primary source is radon gas, which emanates from naturally occurring uranium in the soil.",
+        "page_number": 6
+      },
+      {
+        "question": "How much radiation dose does the average person receive annually from natural and man-made sources?",
+        "answer": "The average annual radiation dose is approximately 360 millirem, with 300 millirem from natural sources and 60 millirem from man-made sources.",
+        "page_number": 7
+      },
+      {
+        "question": "What is the DOE whole-body radiation dose limit for general employees?",
+        "answer": "The DOE limit is 5,000 millirem per year.",
+        "page_number": 8
+      },
+      {
+        "question": "What is the ALARA principle in radiation safety?",
+        "answer": "ALARA stands for 'As Low As Reasonably Achievable' and emphasizes minimizing exposure to radiation through time management, maintaining distance, and using shielding.",
+        "page_number": 9
+      },
+      {
+        "question": "What are some examples of man-made sources of radiation?",
+        "answer": "Examples include medical X-rays, nuclear medicine treatments, tobacco products, and building materials.",
+        "page_number": 10
+      },
+      {
+        "question": "What steps should a pregnant worker take to protect the embryo/fetus from radiation?",
+        "answer": "A pregnant worker should voluntarily declare her pregnancy in writing to invoke the embryo/fetus radiation exposure limit of 500 millirem from conception to birth. The employer may reassign tasks to reduce exposure risk.",
+        "page_number": 11
+      },
+      {
+        "question": "What is radioactive contamination?",
+        "answer": "Radioactive contamination is uncontained radioactive material in an unwanted location, such as on a worker's skin or clothing.",
+        "page_number": 12
+      },
+      {
+        "question": "What is radiation exposure?",
+        "answer": "Radiation exposure occurs when radiation passes through or interacts with the body.",
+        "page_number": 13
+      },
+      {
+        "question": "What are the three basic principles of radiation protection?",
+        "answer": "Time, distance, and shielding.",
+        "page_number": 14
+      },
+      {
+        "question": "What is the difference between contamination and exposure?",
+        "answer": "Contamination involves the presence of radioactive material on a surface, while exposure occurs when radiation passes through or interacts with the body.",
+        "page_number": 15
+      },
+      {
+        "question": "What types of personal protective equipment (PPE) are used for radiological work?",
+        "answer": "PPE includes gloves, lab coats, shoe covers, respirators, and radiation badges.",
+        "page_number": 16
+      },
+      {
+        "question": "What is the purpose of a dosimeter?",
+        "answer": "A dosimeter measures an individual's radiation exposure.",
+        "page_number": 17
+      },
+      {
+        "question": "What should you do if you lose your dosimeter?",
+        "answer": "Report the loss immediately to your supervisor or radiation control personnel.",
+        "page_number": 18
+      },
+      {
+        "question": "What is the function of a Radiation Work Permit (RWP)?",
+        "answer": "An RWP outlines the radiological conditions, protective measures, and monitoring requirements for specific tasks in radiological areas.",
+        "page_number": 19
+      },
+      {
+        "question": "What is radioactive decay?",
+        "answer": "Radioactive decay is the process by which unstable atoms release energy in the form of radiation to become stable.",
+        "page_number": 20
+      },
+      {
+        "question": "What is the difference between alpha and beta radiation?",
+        "answer": "Alpha radiation consists of heavy, positively charged particles that can be stopped by a sheet of paper, while beta radiation consists of lighter, negatively charged particles that can penetrate skin but are stopped by plastic or glass.",
+        "page_number": 21
+      },
+      {
+        "question": "What is gamma radiation?",
+        "answer": "Gamma radiation is high-energy electromagnetic radiation that can penetrate most materials and requires dense shielding like lead or concrete.",
+        "page_number": 22
+      },
+      {
+        "question": "What is the primary purpose of radiation safety training?",
+        "answer": "To provide workers with the knowledge and skills to safely work in and around radiological areas.",
+        "page_number": 23
+      },
+      {
+        "question": "What is a high-radiation area?",
+        "answer": "A high-radiation area is where radiation levels could result in an individual receiving a dose exceeding 100 millirem in one hour.",
+        "page_number": 24
+      },
+      {
+        "question": "What is low-level radioactive waste?",
+        "answer": "Low-level waste includes items like gloves, clothing, and tools that have been contaminated with radioactive material.",
+        "page_number": 25
+      },
+      {
+        "question": "What is the biological effect of radiation on cells?",
+        "answer": "Radiation can damage DNA, potentially causing mutations or cell death.",
+        "page_number": 26
+      },
+      {
+        "question": "What are the symptoms of acute radiation syndrome (ARS)?",
+        "answer": "Symptoms include nausea, vomiting, fatigue, and in severe cases, organ failure.",
+        "page_number": 27
+      },
+      {
+        "question": "What are some examples of natural radiation sources?",
+        "answer": "Natural sources include cosmic rays, radon gas, and radioactive elements in the soil.",
+        "page_number": 28
+      },
+      {
+        "question": "How is radiation dose measured?",
+        "answer": "Radiation dose is measured in units like millirem or sieverts.",
+        "page_number": 29
+      },
+      {
+        "question": "What is uranium?",
+        "answer": "Uranium is a naturally occurring radioactive element used as fuel in nuclear reactors.",
+        "page_number": 30
+      },
+      {
+        "question": "What is radon gas?",
+        "answer": "Radon gas is a naturally occurring radioactive gas that is a significant source of background radiation.",
+        "page_number": 31
+      },
+      {
+        "question": "What is external exposure?",
+        "answer": "External exposure occurs when the body is exposed to radiation from a source outside the body.",
+        "page_number": 32
+      },
+      {
+        "question": "What is internal contamination?",
+        "answer": "Internal contamination occurs when radioactive material is inhaled, ingested, or enters the body through a wound.",
+        "page_number": 33
+      },
+      {
+        "question": "What is the purpose of a Geiger counter?",
+        "answer": "A Geiger counter detects and measures radiation levels.",
+        "page_number": 34
+      },
+      {
+        "question": "What are the types of radiation detectors?",
+        "answer": "Radiation detectors include Geiger-Mueller counters, ion chambers, and scintillation detectors.",
+        "page_number": 35
+      },
+      {
+        "question": "What is the annual dose limit for pregnant workers?",
+        "answer": "The annual dose limit is 500 millirem.",
+        "page_number": 36
+      },
+      {
+        "question": "What are hot particles?",
+        "answer": "Hot particles are small, highly radioactive particles that pose significant risks if inhaled or ingested.",
+        "page_number": 37
+      },
+      {
+        "question": "Why is personal hygiene important in radiological areas?",
+        "answer": "Personal hygiene minimizes the risk of spreading contamination.",
+        "page_number": 38
+      },
+      {
+        "question": "What is shielding in radiation protection?",
+        "answer": "Shielding involves using materials like lead, concrete, or water to block or reduce radiation.",
+        "page_number": 39
+      },
+      {
+        "question": "What is criticality safety?",
+        "answer": "Criticality safety involves measures to prevent an accidental chain reaction in nuclear materials.",
+        "page_number": 40
+      },
+      {
+        "question": "What is the PUREX process?",
+        "answer": "The PUREX process is a chemical method used to separate plutonium and uranium from spent nuclear fuel.",
+        "page_number": 41
+      }
+    ]
+  }
+  

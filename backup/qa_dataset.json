@@ -1,0 +1,530 @@
+[
+  {
+    "question": "What is the primary purpose of the DOE General Employee Radiological Training (GERT)?",
+    "answer": "The primary purpose of GERT is to provide DOE site employees with knowledge and skills in radiological fundamentals, commensurate with their assigned duties and potential hazards, ensuring safety and compliance with radiological requirements."
+  },
+  {
+    "question": "What are the four types of ionizing radiation?",
+    "answer": "The four types of ionizing radiation are alpha particles, beta particles, neutrons, and gamma rays."
+  },
+  {
+    "question": "What is the DOE whole-body radiation dose limit for general employees?",
+    "answer": "The DOE whole-body radiation dose limit for general employees is 5,000 millirem per year."
+  },
+  {
+    "question": "What is the annual background radiation dose to a member of the general population?",
+    "answer": "The annual background radiation dose to a member of the general population is approximately 360 millirem."
+  },
+  {
+    "question": "How does exposure to radiation differ from radioactive contamination?",
+    "answer": "Exposure to radiation does not result in contamination. Radioactive contamination occurs when uncontained radioactive material is in an unwanted location, potentially contaminating the skin or clothing."
+  },
+  {
+    "question": "What is ALARA, and why is it important?",
+    "answer": "ALARA stands for 'As Low As Reasonably Achievable.' It is a safety principle aimed at minimizing radiation exposures and releases of radioactive materials by employing all reasonable methods."
+  },
+  {
+    "question": "What is the purpose of a Radiation Work Permit (RWP)?",
+    "answer": "An RWP outlines special instructions, radiation levels, and protective measures required for specific tasks in radiological areas."
+  },
+  {
+    "question": "What are some naturally occurring sources of radiation?",
+    "answer": "Naturally occurring sources of radiation include cosmic radiation, radon gas, terrestrial radiation from the earth's crust, and radioactive materials within the human body like Potassium-40."
+  },
+  {
+    "question": "What is the recommended radiation dose limit for the embryo/fetus of a declared pregnant worker?",
+    "answer": "The recommended radiation dose limit for the embryo/fetus of a declared pregnant worker is 500 millirem for the period from conception to birth."
+  },
+  {
+    "question": "What is the primary contributor to natural background radiation exposure?",
+    "answer": "Radon gas, which originates from naturally occurring uranium in the soil, is the primary contributor to natural background radiation exposure."
+  },
+  {
+    "question": "What is ionizing radiation?",
+    "answer": "Ionizing radiation is a form of energy that can remove tightly bound electrons from atoms, creating ions."
+  },
+  {
+    "question": "How does alpha radiation differ from beta radiation?",
+    "answer": "Alpha radiation consists of heavy, positively charged particles, while beta radiation consists of lighter, negatively charged particles (electrons)."
+  },
+  {
+    "question": "What protective measures are used against alpha radiation?",
+    "answer": "Protective measures include wearing gloves and respirators to prevent ingestion or inhalation."
+  },
+  {
+    "question": "What materials are effective at shielding gamma radiation?",
+    "answer": "Dense materials such as lead and concrete are effective at shielding gamma radiation."
+  },
+  {
+    "question": "What is the purpose of dosimetry?",
+    "answer": "Dosimetry measures and records the amount of radiation exposure an individual receives."
+  },
+  {
+    "question": "What are the three principles of radiation protection?",
+    "answer": "The three principles are time, distance, and shielding."
+  },
+  {
+    "question": "Why is time important in radiation protection?",
+    "answer": "Limiting the time spent near a radiation source reduces exposure."
+  },
+  {
+    "question": "How does distance help in radiation protection?",
+    "answer": "Increasing distance from a radiation source reduces exposure due to the inverse square law."
+  },
+  {
+    "question": "What is a controlled area in radiological terms?",
+    "answer": "A controlled area is a location where radiological conditions are monitored, and access is restricted."
+  },
+  {
+    "question": "What is a dosimeter, and how is it used?",
+    "answer": "A dosimeter is a device worn to measure an individual’s radiation exposure over time."
+  },
+  {
+    "question": "What should you do if your dosimeter shows unexpected high exposure?",
+    "answer": "Report immediately to the Radiological Control organization for further investigation."
+  },
+  {
+    "question": "What does 'background radiation' mean?",
+    "answer": "Background radiation refers to the natural levels of radiation present in the environment."
+  },
+  {
+    "question": "What is a Radiation Area?",
+    "answer": "A Radiation Area is a location where radiation levels exceed 5 millirem per hour but do not exceed 100 millirem per hour."
+  },
+  {
+    "question": "What is neutron radiation, and where is it encountered?",
+    "answer": "Neutron radiation consists of uncharged particles and is commonly found in nuclear reactors."
+  },
+  {
+    "question": "What is a contamination survey?",
+    "answer": "It is an assessment to detect and measure radioactive contamination on surfaces or equipment."
+  },
+  {
+    "question": "What are the three categories of radioactive waste?",
+    "answer": "The three categories are low-level waste, high-level waste, and transuranic waste."
+  },
+  {
+    "question": "What actions should you take if you find radioactive contamination on your clothing?",
+    "answer": "Report immediately, avoid spreading contamination, and follow decontamination procedures."
+  },
+  {
+    "question": "What is the biological half-life of a radionuclide?",
+    "answer": "The biological half-life is the time it takes for half of a radionuclide to be eliminated from the body."
+  },
+  {
+    "question": "What is acute radiation syndrome (ARS)?",
+    "answer": "ARS is a serious illness caused by a high dose of radiation over a short period, leading to symptoms like nausea, fatigue, and skin burns."
+  },
+  {
+    "question": "How is radiological safety training conducted at DOE sites?",
+    "answer": "Training is conducted through classroom instruction, practical exercises, and written assessments."
+  },
+  {
+    "question": "What is the role of shielding in radiation protection?",
+    "answer": "Shielding absorbs or blocks radiation to protect personnel from exposure."
+  },
+  {
+    "question": "What should you do if you lose your dosimeter?",
+    "answer": "Report the loss immediately to the Radiological Control Organization and follow their instructions."
+  },
+  {
+    "question": "What is the primary goal of radiological safety training for uranium facilities?",
+    "answer": "To provide personnel with a basic understanding of uranium characteristics and precautions needed for safe work in uranium facilities."
+  },
+  {
+    "question": "What are the three natural isotopes of uranium?",
+    "answer": "Uranium-234, Uranium-235, and Uranium-238."
+  },
+  {
+    "question": "What is 'yellowcake'?",
+    "answer": "Yellowcake is a concentrated uranium oxide produced during the milling process."
+  },
+  {
+    "question": "What is uranium hexafluoride (UF6) used for in the nuclear fuel cycle?",
+    "answer": "UF6 is used for uranium enrichment during the nuclear fuel cycle."
+  },
+  {
+    "question": "What are the two primary decay series of uranium?",
+    "answer": "The actinium series (Uranium-235) and the uranium series (Uranium-238)."
+  },
+  {
+    "question": "What is the primary health risk associated with uranium inhalation?",
+    "answer": "Damage to the lungs and kidneys due to uranium's chemical toxicity and radiation."
+  },
+  {
+    "question": "What precautions should be taken when handling uranium chips and filings?",
+    "answer": "Submerge them in water or mineral oil to prevent spontaneous ignition."
+  },
+  {
+    "question": "How is uranium oxide color related to its solubility?",
+    "answer": "Darker uranium oxides are less soluble, while lighter oxides are more soluble."
+  },
+  {
+    "question": "What is depleted uranium?",
+    "answer": "Uranium with a reduced amount of Uranium-235, primarily composed of Uranium-238."
+  },
+  {
+    "question": "What does the term 'criticality' refer to in nuclear safety?",
+    "answer": "A self-sustaining nuclear chain reaction."
+  },
+  {
+    "question": "What are the main uses of enriched uranium?",
+    "answer": "Nuclear reactor fuel, nuclear weapons, and naval propulsion reactors."
+  },
+  {
+    "question": "What are uranium mill tailings?",
+    "answer": "Residual waste left after uranium ore has been processed to extract yellowcake."
+  },
+  {
+    "question": "What is the biological half-life of uranium in the body?",
+    "answer": "It ranges from 6 to 5000 days depending on the organ affected."
+  },
+  {
+    "question": "How does uranium emit radiation?",
+    "answer": "Through alpha particle emission or nuclear fission."
+  },
+  {
+    "question": "What is the purpose of uranium enrichment?",
+    "answer": "To increase the proportion of Uranium-235 for use in reactors and weapons."
+  },
+  {
+    "question": "What are common safety measures for preventing uranium fires?",
+    "answer": "Using MET-L-X powder and water submersion."
+  },
+  {
+    "question": "How is uranium-235 different from uranium-238?",
+    "answer": "Uranium-235 is fissile with thermal neutrons, whereas Uranium-238 is not."
+  },
+  {
+    "question": "What is the PUREX process?",
+    "answer": "A chemical process for extracting plutonium and uranium from spent nuclear fuel."
+  },
+  {
+    "question": "What is high-level waste (HLW)?",
+    "answer": "Highly radioactive waste from reprocessing spent nuclear fuel."
+  },
+  {
+    "question": "Why is radon considered hazardous?",
+    "answer": "It is a radioactive gas that can accumulate indoors and cause lung cancer."
+  },
+  {
+    "question": "What is the primary protective measure against inhaling uranium dust?",
+    "answer": "Using respiratory protection and maintaining clean work environments."
+  },
+  {
+    "question": "What is the purpose of a radiological control technician (RCT)?",
+    "answer": "To monitor and manage radiation safety in facilities handling radioactive materials."
+  },
+  {
+    "question": "What does 'alpha radiation' mean for external dose hazard?",
+    "answer": "Alpha radiation poses minimal external hazard due to its short range."
+  },
+  {
+    "question": "What does the acronym UMTRA stand for?",
+    "answer": "Uranium Mill Tailings Remedial Action."
+  },
+  {
+    "question": "What is the significance of Uranium-233?",
+    "answer": "It is a fissile material manufactured by irradiating Thorium-232."
+  },
+  {
+    "question": "What material is used to fabricate reactor fuel rods?",
+    "answer": "Uranium dioxide (UO2)."
+  },
+  {
+    "question": "What is the chemical symbol for uranium tetrafluoride?",
+    "answer": "UF4."
+  },
+  {
+    "question": "How is uranium ore typically processed?",
+    "answer": "Through crushing, grinding, leaching, and purification."
+  },
+  {
+    "question": "What are common byproducts of uranium mining?",
+    "answer": "Mill tailings and radioactive dust."
+  },
+  {
+    "question": "What safety precautions are necessary for UF6 storage?",
+    "answer": "Ensure containment and avoid moisture to prevent HF gas production."
+  },
+  {
+    "question": "How does uranium exposure affect bones?",
+    "answer": "Uranium tends to accumulate in bone tissue, posing a radiological hazard."
+  },
+  {
+    "question": "What is the significance of Uranium-232?",
+    "answer": "It is a byproduct of Uranium-233 production and contributes to gamma radiation hazards."
+  },
+  {
+    "question": "What is the minimum passing score for radiological training tests?",
+    "answer": "80%, with adjustments based on statistical analysis."
+  },
+  {
+    "question": "What equipment is essential for radiological training?",
+    "answer": "Overhead projectors, screens, flip charts, and visual aids."
+  },
+  {
+    "question": "What are the principal uses of depleted uranium?",
+    "answer": "Radiation shielding, armor-piercing munitions, and counterweights."
+  },
+  {
+    "question": "What is a key feature of uranium hydride?",
+    "answer": "It is used for tritium storage."
+  },
+  {
+    "question": "What does a uranium criticality monitor do?",
+    "answer": "Detects and alarms criticality incidents."
+  },
+  {
+    "question": "How are mill tailings managed?",
+    "answer": "Through containment and environmental remediation programs like UMTRA."
+  },
+  {
+    "question": "Why is hydrogen fluoride (HF) dangerous?",
+    "answer": "It is corrosive and can cause severe damage to lungs and skin."
+  },
+  {
+    "question": "What color indicates highly soluble uranium compounds?",
+    "answer": "Yellow or orange."
+  },
+  {
+    "question": "What are the primary isotopes used in nuclear power?",
+    "answer": "Uranium-235 and Uranium-238."
+  },
+  {
+    "question": "How does uranium toxicity compare to its radiological hazard?",
+    "answer": "Acute exposure often leads to toxic effects, while chronic exposure poses radiological risks."
+  },
+  {
+    "question": "What regulatory document outlines uranium training standards?",
+    "answer": "DOE-STD-1098-99, Radiological Control (RCS)."
+  },
+  {
+    "question": "How often should radiological training be refreshed?",
+    "answer": "Every two years if meeting 10 CFR 835 requirements."
+  },
+  {
+    "question": "What is Uranium-236 and where is it found?",
+    "answer": "A byproduct of Uranium-235 in reactors, found in reprocessed nuclear fuel."
+  },
+  {
+    "question": "What are typical hazards of uranium solution spills?",
+    "answer": "Increased criticality risk and spread of contamination."
+  },
+  {
+    "question": "What are uranium 'decay products'?",
+    "answer": "Radioactive elements formed as uranium isotopes decay."
+  },
+  {
+    "question": "How are uranium fire hazards managed?",
+    "answer": "By submersing reactive materials in water or mineral oil."
+  },
+  {
+    "question": "What is the purpose of uranium enrichment?",
+    "answer": "To increase the concentration of Uranium-235 for reactors or weapons."
+  },
+  {
+    "question": "What is the role of a Radiological Safety Officer (RSO)?",
+    "answer": "To oversee radiological safety practices and compliance."
+  },
+  {
+    "question": "What is the primary goal of radiological protection in occupational settings?",
+    "answer": "To ensure the safety and health of workers by minimizing exposure to ionizing radiation while performing their duties."
+  },
+  {
+    "question": "What are the three basic principles of radiation protection?",
+    "answer": "Justification, Optimization (ALARA), and Dose Limitation."
+  },
+  {
+    "question": "What does ALARA stand for?",
+    "answer": "As Low As Reasonably Achievable."
+  },
+  {
+    "question": "Why is justification important in radiation protection?",
+    "answer": "Justification ensures that any exposure to radiation results in a net benefit to workers or society."
+  },
+  {
+    "question": "What is the role of shielding in radiation protection?",
+    "answer": "Shielding reduces radiation exposure by absorbing or blocking radiation from its source."
+  },
+  {
+    "question": "What is a controlled area in radiation protection?",
+    "answer": "An area where access is controlled to protect individuals from potential radiation exposure."
+  },
+  {
+    "question": "What is a monitored area?",
+    "answer": "An area where radiation levels are regularly assessed but do not require strict access control."
+  },
+  {
+    "question": "How often should dosimeters be calibrated?",
+    "answer": "At regular intervals specified by regulatory standards."
+  },
+  {
+    "question": "What is the importance of workplace monitoring?",
+    "answer": "To detect and assess radiation levels and ensure the effectiveness of protective measures."
+  },
+  {
+    "question": "What is the purpose of personal dosimetry?",
+    "answer": "To measure and record an individual worker’s radiation exposure over time."
+  },
+  {
+    "question": "What are the three main sources of occupational radiation exposure?",
+    "answer": "External radiation, internal contamination, and radioactive waste."
+  },
+  {
+    "question": "What are the key steps in contamination control?",
+    "answer": "Prevent, detect, and contain contamination to protect workers and the environment."
+  },
+  {
+    "question": "What is the difference between external and internal contamination?",
+    "answer": "External contamination occurs on the skin or clothing, while internal contamination happens through ingestion, inhalation, or wounds."
+  },
+  {
+    "question": "Why is proper labeling of radioactive materials important?",
+    "answer": "To ensure clear identification of hazards and proper handling."
+  },
+  {
+    "question": "What does a Radiation Work Permit (RWP) provide?",
+    "answer": "It provides guidelines for safe work practices in radiological areas."
+  },
+  {
+    "question": "What is the recommended limit for whole-body occupational exposure per year?",
+    "answer": "5,000 millirem (50 millisieverts)."
+  },
+  {
+    "question": "What measures are recommended to minimize radiation exposure in the workplace?",
+    "answer": "Time management, distance from sources, and effective shielding."
+  },
+  {
+    "question": "How can workers ensure contamination does not spread outside a controlled area?",
+    "answer": "By using appropriate containment methods and monitoring exits for contamination."
+  },
+  {
+    "question": "What is the purpose of regular training in radiological protection?",
+    "answer": "To keep workers informed about hazards and reinforce safe practices."
+  },
+  {
+    "question": "What are radioactive waste disposal guidelines?",
+    "answer": "Proper segregation, labeling, storage, and disposal following regulatory standards."
+  },
+  {
+    "question": "Why is ventilation important in radiological areas?",
+    "answer": "To prevent the buildup of airborne radioactive materials."
+  },
+  {
+    "question": "What is the function of an air sampler in radiological areas?",
+    "answer": "To detect and measure airborne radioactive particles."
+  },
+  {
+    "question": "What is a derived air concentration (DAC)?",
+    "answer": "The concentration of a radionuclide in air that would result in an annual dose limit if inhaled continuously."
+  },
+  {
+    "question": "What is the purpose of health physics surveys?",
+    "answer": "To assess radiation levels, contamination, and worker safety in operational areas."
+  },
+  {
+    "question": "What should workers do if they suspect radiation exposure above permissible limits?",
+    "answer": "Immediately report to the radiological control team and follow emergency procedures."
+  },
+  {
+    "question": "What is criticality safety?",
+    "answer": "Measures to prevent an unintended self-sustaining nuclear chain reaction."
+  },
+  {
+    "question": "What are hot particles?",
+    "answer": "Small radioactive particles with high activity levels."
+  },
+  {
+    "question": "What are the potential effects of acute radiation exposure?",
+    "answer": "Nausea, fatigue, skin burns, and in severe cases, damage to internal organs."
+  },
+  {
+    "question": "What role do supervisors play in radiological protection?",
+    "answer": "Supervisors ensure workers follow safety protocols and maintain compliance."
+  },
+  {
+    "question": "What is the purpose of radiation warning signs?",
+    "answer": "To alert personnel of the presence of radiation or radioactive materials."
+  },
+  {
+    "question": "How is radioactive waste classified?",
+    "answer": "As low-level, intermediate-level, or high-level waste based on activity and hazard."
+  },
+  {
+    "question": "What is a contamination survey?",
+    "answer": "An evaluation to detect and measure radioactive contamination on surfaces."
+  },
+  {
+    "question": "Why is hygiene important in radiological work areas?",
+    "answer": "To prevent ingestion or inhalation of radioactive materials."
+  },
+  {
+    "question": "What is a high-radiation area?",
+    "answer": "An area where radiation levels exceed 100 millirem per hour."
+  },
+  {
+    "question": "How does time management reduce radiation exposure?",
+    "answer": "Reducing time spent near radiation sources minimizes accumulated dose."
+  },
+  {
+    "question": "What is a decontamination station?",
+    "answer": "A location designed for the removal of radioactive contamination from workers or equipment."
+  },
+  {
+    "question": "What is the annual dose limit for pregnant workers?",
+    "answer": "500 millirem (5 millisieverts) to the fetus."
+  },
+  {
+    "question": "Why is proper storage of radioactive materials critical?",
+    "answer": "To prevent unauthorized access, contamination, and exposure."
+  },
+  {
+    "question": "What is a controlled zone?",
+    "answer": "An area with additional safety measures due to elevated radiation levels."
+  },
+  {
+    "question": "How is contamination on the skin measured?",
+    "answer": "Using handheld contamination monitors or wipes."
+  },
+  {
+    "question": "What is neutron radiation?",
+    "answer": "A type of radiation consisting of neutral particles emitted during fission reactions."
+  },
+  {
+    "question": "How is a radiation dose measured?",
+    "answer": "Using units such as millirem or millisieverts."
+  },
+  {
+    "question": "What should workers do during a radiological emergency?",
+    "answer": "Evacuate as instructed and report to designated emergency response locations."
+  },
+  {
+    "question": "What is the primary role of radiological control technicians (RCTs)?",
+    "answer": "To monitor radiation levels, contamination, and compliance with safety protocols."
+  },
+  {
+    "question": "What is an unrestricted area?",
+    "answer": "An area where radiation levels do not pose significant risk and are open to general access."
+  },
+  {
+    "question": "What is the purpose of periodic health checks for radiological workers?",
+    "answer": "To monitor potential long-term effects of radiation exposure."
+  },
+  {
+    "question": "What is the importance of regular instrument calibration?",
+    "answer": "To ensure accurate measurements of radiation and contamination levels."
+  },
+  {
+    "question": "How does distance reduce radiation exposure?",
+    "answer": "Increasing distance decreases exposure according to the inverse square law."
+  },
+  {
+    "question": "What is the purpose of radiation shielding?",
+    "answer": "To absorb or block radiation to protect workers from exposure."
+  },
+  {
+    "question": "What are some examples of personal protective equipment (PPE) in radiological areas?",
+    "answer": "Gloves, respirators, face shields, and protective clothing."
+  }
+]

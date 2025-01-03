@@ -1,0 +1,494 @@
+{
+    "questions_and_answers": [
+        {
+            "question": "What is the primary objective of occupational radiological protection?",
+            "answer": "To minimize radiation exposure and ensure the safety and health of workers in radiological environments.",
+            "page_number": 5
+        },
+        {
+            "question": "What are the key elements of a radiological protection program?",
+            "answer": "Key elements include radiation monitoring, training, exposure controls, and emergency preparedness.",
+            "page_number": 6
+        },
+        {
+            "question": "How does ALARA principle guide radiological safety practices?",
+            "answer": "The ALARA principle emphasizes keeping radiation exposures As Low As Reasonably Achievable by applying practical safety measures.",
+            "page_number": 7
+        },
+        {
+            "question": "What are the types of ionizing radiation workers may encounter?",
+            "answer": "Alpha, beta, gamma, and neutron radiation are the primary types of ionizing radiation encountered.",
+            "page_number": 8
+        },
+        {
+            "question": "What is the importance of personal dosimeters in radiological work?",
+            "answer": "Personal dosimeters track and measure individual radiation exposure levels to ensure they remain within safety limits.",
+            "page_number": 9
+        },
+        {
+            "question": "How does shielding reduce radiation exposure?",
+            "answer": "Shielding reduces exposure by absorbing or blocking ionizing radiation with materials such as lead, concrete, or water.",
+            "page_number": 10
+        },
+        {
+            "question": "What are common control measures for radiation protection?",
+            "answer": "Common measures include time management, maintaining distance, and using appropriate shielding.",
+            "page_number": 11
+        },
+        {
+            "question": "Why is training crucial for radiological protection?",
+            "answer": "Training ensures workers understand potential hazards and the proper procedures to minimize exposure risks.",
+            "page_number": 12
+        },
+        {
+            "question": "What are the biological effects of ionizing radiation?",
+            "answer": "Biological effects include damage to cells, potential for cancer, and acute radiation sickness at high doses.",
+            "page_number": 13
+        },
+        {
+            "question": "How is contamination different from exposure?",
+            "answer": "Contamination involves radioactive materials on or inside the body, while exposure refers to being near a radiation source.",
+            "page_number": 14
+        },
+        {
+            "question": "What is the role of radiation monitoring equipment?",
+            "answer": "Radiation monitoring equipment detects and measures radiation levels to ensure safety and compliance.",
+            "page_number": 15
+        },
+        {
+            "question": "What should workers do in case of a radiological emergency?",
+            "answer": "Follow the emergency response plan, evacuate the area if instructed, and report to designated safety personnel.",
+            "page_number": 16
+        },
+        {
+            "question": "What are the main categories of radioactive waste?",
+            "answer": "Low-level waste, intermediate-level waste, and high-level waste are the main categories.",
+            "page_number": 17
+        },
+        {
+            "question": "Why is workplace monitoring important in radiological protection?",
+            "answer": "Monitoring ensures radiation levels are within permissible limits and identifies areas requiring additional controls.",
+            "page_number": 18
+        },
+        {
+            "question": "How does time management reduce radiation exposure?",
+            "answer": "Limiting the time spent near radiation sources reduces the dose received by workers.",
+            "page_number": 19
+        },
+        {
+            "question": "What are the responsibilities of a radiological safety officer?",
+            "answer": "Responsibilities include implementing safety programs, training staff, and ensuring regulatory compliance.",
+            "page_number": 20
+        },
+        {
+            "question": "What is the significance of a Radiation Work Permit (RWP)?",
+            "answer": "An RWP outlines the safety requirements and controls for specific radiological tasks.",
+            "page_number": 21
+        },
+        {
+            "question": "What are the dose limits for radiation workers?",
+            "answer": "Dose limits vary by jurisdiction but generally aim to minimize exposure and prevent adverse health effects.",
+            "page_number": 22
+        },
+        {
+            "question": "What materials are effective as radiation shields?",
+            "answer": "Materials like lead, concrete, and water are commonly used as effective radiation shields.",
+            "page_number": 23
+        },
+        {
+            "question": "Why is proper labeling of radioactive materials important?",
+            "answer": "Labeling ensures that workers are aware of potential hazards and handle materials appropriately.",
+            "page_number": 24
+        },
+        {
+            "question": "What is the purpose of routine contamination surveys?",
+            "answer": "Routine contamination surveys identify and control radioactive contamination in work areas.",
+            "page_number": 25
+        },
+        {
+            "question": "What are common sources of occupational radiation exposure?",
+            "answer": "Common sources include medical equipment, industrial radiography, and nuclear facilities.",
+            "page_number": 26
+        },
+        {
+            "question": "What is the function of air sampling in radiological environments?",
+            "answer": "Air sampling detects airborne radioactive materials to prevent inhalation exposure.",
+            "page_number": 27
+        },
+        {
+            "question": "Why is ventilation important in radiological work areas?",
+            "answer": "Ventilation reduces the concentration of airborne radioactive materials, enhancing safety.",
+            "page_number": 28
+        },
+        {
+            "question": "What are the steps for decontaminating personnel?",
+            "answer": "Steps include removing contaminated clothing, washing affected skin, and monitoring for residual contamination.",
+            "page_number": 29
+        },
+        {
+            "question": "What is the difference between fixed and removable contamination?",
+            "answer": "Fixed contamination adheres to surfaces and is difficult to remove, while removable contamination can be wiped off easily.",
+            "page_number": 30
+        },
+        {
+            "question": "What is the role of periodic radiological audits?",
+            "answer": "Radiological audits ensure compliance with safety standards and identify areas for improvement.",
+            "page_number": 31
+        },
+        {
+            "question": "What protective clothing is used in radiological environments?",
+            "answer": "Protective clothing includes lab coats, gloves, shoe covers, and sometimes full-body suits.",
+            "page_number": 32
+        },
+        {
+            "question": "What is the purpose of regular training in radiation safety?",
+            "answer": "Regular training ensures workers stay updated on safety protocols and best practices.",
+            "page_number": 33
+        },
+        {
+            "question": "How does distance affect radiation exposure?",
+            "answer": "Increasing the distance from a radiation source significantly reduces exposure due to the inverse square law.",
+            "page_number": 34
+        },
+        {
+            "question": "What is the importance of radiation warning signs?",
+            "answer": "Warning signs alert workers to the presence of radiation and prevent unauthorized access to hazardous areas.",
+            "page_number": 35
+        },
+        {
+            "question": "What is the function of dosimetry in radiological protection?",
+            "answer": "Dosimetry measures individual radiation exposure to ensure safety and compliance with dose limits.",
+            "page_number": 36
+        },
+        {
+            "question": "What precautions should be taken when handling radioactive materials?",
+            "answer": "Precautions include using proper shielding, limiting exposure time, and wearing protective equipment.",
+            "page_number": 37
+        },
+        {
+            "question": "What is the significance of radiation safety drills?",
+            "answer": "Safety drills prepare workers to respond effectively to radiological emergencies.",
+            "page_number": 38
+        },
+        {
+            "question": "What are the common signs of acute radiation sickness?",
+            "answer": "Signs include nausea, vomiting, fatigue, and skin redness, depending on the dose received.",
+            "page_number": 39
+        },
+        {
+            "question": "Why is dose rate monitoring important?",
+            "answer": "Dose rate monitoring ensures that exposure levels remain within safe limits during operations.",
+            "page_number": 40
+        },
+        {
+            "question": "What is the role of lead aprons in radiation protection?",
+            "answer": "Lead aprons provide shielding to reduce exposure to scattered radiation, especially in medical settings.",
+            "page_number": 41
+        },
+        {
+            "question": "What are the risks of internal radiation contamination?",
+            "answer": "Internal contamination can lead to prolonged radiation exposure and damage to internal organs.",
+            "page_number": 42
+        },
+        {
+            "question": "What measures minimize contamination in radiological work?",
+            "answer": "Measures include using containment systems, proper waste disposal, and avoiding unnecessary contact with radioactive materials.",
+            "page_number": 43
+        },
+        {
+            "question": "Why is health surveillance important for radiation workers?",
+            "answer": "Health surveillance monitors the long-term effects of radiation exposure and ensures fitness for duty.",
+            "page_number": 44
+        },
+        {
+            "question": "What is the purpose of contamination control zones?",
+            "answer": "Contamination control zones prevent the spread of radioactive materials into clean areas.",
+            "page_number": 45
+        },
+        {
+            "question": "How are radioactive spills managed in the workplace?",
+            "answer": "Spills are managed by isolating the area, cleaning up the contamination, and performing follow-up surveys.",
+            "page_number": 46
+        },
+        {
+            "question": "What is the significance of ALARA in radiological safety?",
+            "answer": "ALARA (As Low As Reasonably Achievable) emphasizes minimizing radiation exposure through practical measures.",
+            "page_number": 47
+        },
+        {
+            "question": "What are the primary methods of radiation shielding?",
+            "answer": "Shielding methods include using lead, concrete, or water to block or attenuate radiation.",
+            "page_number": 48
+        },
+        {
+            "question": "Why is personal protective equipment (PPE) essential in radiation areas?",
+            "answer": "PPE minimizes exposure to radioactive materials and prevents contamination of the body and clothing.",
+            "page_number": 49
+        },
+        {
+            "question": "What steps should workers take during a radiological emergency?",
+            "answer": "Workers should evacuate to a safe area, follow emergency procedures, and report to supervisors.",
+            "page_number": 50
+        },
+        {
+            "question": "What is the purpose of radiation area monitoring?",
+            "answer": "Monitoring detects radiation levels to ensure they are within safe limits and identify potential hazards.",
+            "page_number": 51
+        },
+        {
+            "question": "What is the role of bioassays in radiation safety?",
+            "answer": "Bioassays measure radioactive material in the body to assess internal contamination.",
+            "page_number": 52
+        },
+        {
+            "question": "How does time affect radiation exposure?",
+            "answer": "Reducing time spent near a radiation source decreases total exposure.",
+            "page_number": 53
+        },
+        {
+            "question": "What is the importance of dose reconstruction?",
+            "answer": "Dose reconstruction estimates past radiation exposure to evaluate potential health effects.",
+            "page_number": 54
+        },
+        {
+            "question": "What measures ensure safe transport of radioactive materials?",
+            "answer": "Measures include proper labeling, shielding, and adherence to regulatory guidelines during transport.",
+            "page_number": 55
+        },
+        {
+            "question": "What are the long-term effects of chronic radiation exposure?",
+            "answer": "Chronic exposure can lead to increased cancer risk, organ damage, and genetic mutations.",
+            "page_number": 56
+        },
+        {
+            "question": "Why is proper waste disposal critical in radiological environments?",
+            "answer": "Proper disposal prevents environmental contamination and minimizes long-term health risks.",
+            "page_number": 57
+        },
+        {
+            "question": "What is the significance of regular calibration of radiation instruments?",
+            "answer": "Calibration ensures accurate measurements of radiation levels, critical for safety and compliance.",
+            "page_number": 58
+        },
+        {
+            "question": "What are the primary sources of natural background radiation?",
+            "answer": "Primary sources include radon gas, cosmic rays, and naturally occurring radioactive materials in soil.",
+            "page_number": 59
+        },
+        {
+            "question": "What precautions should be taken when working with uranium compounds?",
+            "answer": "Precautions include using proper ventilation, wearing protective gloves, and avoiding ingestion or inhalation.",
+            "page_number": 60
+        },
+        {
+            "question": "What is the role of a Radiation Safety Officer (RSO)?",
+            "answer": "The RSO oversees radiation protection programs and ensures compliance with safety standards.",
+            "page_number": 61
+        },
+        {
+            "question": "What is the difference between ionizing and non-ionizing radiation?",
+            "answer": "Ionizing radiation has enough energy to remove electrons from atoms, while non-ionizing radiation does not.",
+            "page_number": 62
+        },
+        {
+            "question": "What is the purpose of controlled areas in radiological facilities?",
+            "answer": "Controlled areas limit access to reduce exposure and ensure compliance with safety protocols.",
+            "page_number": 63
+        },
+        {
+            "question": "How does shielding design impact radiation safety?",
+            "answer": "Proper shielding design minimizes exposure to radiation and protects workers and the public.",
+            "page_number": 64
+        },
+        {
+            "question": "What are the primary components of a radiological survey?",
+            "answer": "Primary components include dose rate measurements, contamination surveys, and evaluation of potential hazards.",
+            "page_number": 65
+        },
+        {
+            "question": "Why is workplace monitoring critical in radiological protection?",
+            "answer": "Monitoring ensures radiation levels are within safe limits and identifies areas requiring corrective actions.",
+            "page_number": 66
+        },
+        {
+            "question": "What is the importance of using time, distance, and shielding principles?",
+            "answer": "These principles minimize radiation exposure effectively and are foundational to radiological safety.",
+            "page_number": 67
+        },
+        {
+            "question": "How does radon gas contribute to natural radiation exposure?",
+            "answer": "Radon gas, a decay product of uranium, contributes significantly to natural background radiation exposure.",
+            "page_number": 68
+        },
+        {
+            "question": "What measures are essential for preventing radioactive material spills?",
+            "answer": "Measures include proper storage, handling procedures, and immediate cleanup protocols.",
+            "page_number": 69
+        },
+        {
+            "question": "What are the health effects of acute radiation exposure?",
+            "answer": "Effects include skin burns, radiation sickness, and potentially fatal damage to internal organs.",
+            "page_number": 70
+        },
+        {
+            "question": "What is the purpose of using dosimeters?",
+            "answer": "Dosimeters measure individual radiation exposure to ensure it remains within safe limits.",
+            "page_number": 71
+        },
+        {
+            "question": "What are the types of personal protective equipment (PPE) used in radiological areas?",
+            "answer": "Types include gloves, respirators, face shields, and full-body suits.",
+            "page_number": 73
+        },
+        {
+            "question": "What is the significance of whole-body radiation dose limits?",
+            "answer": "Whole-body limits ensure protection against harmful effects of uniform radiation exposure.",
+            "page_number": 74
+        },
+        {
+            "question": "How is radiation exposure monitored in occupational settings?",
+            "answer": "Exposure is monitored using dosimeters, area surveys, and bioassays.",
+            "page_number": 75
+        },
+        {
+            "question": "What is the purpose of radioactive waste classification?",
+            "answer": "Classification ensures appropriate handling, storage, and disposal methods for different waste types.",
+            "page_number": 76
+        },
+        {
+            "question": "Why is decontamination critical in radiological safety?",
+            "answer": "Decontamination removes radioactive material, reducing exposure risks and preventing spread.",
+            "page_number": 77
+        },
+        {
+            "question": "What are the primary isotopes used in nuclear energy production?",
+            "answer": "Primary isotopes include Uranium-235 and Plutonium-239.",
+            "page_number": 78
+        },
+        {
+            "question": "What are the steps in responding to a radiation emergency?",
+            "answer": "Steps include evacuation, securing the area, and notifying emergency response teams.",
+            "page_number": 79
+        },
+        {
+            "question": "How is shielding effectiveness determined?",
+            "answer": "Effectiveness is determined by the material's density and thickness relative to the radiation type and energy.",
+            "page_number": 80
+        },
+        {
+            "question": "What precautions are necessary for handling radioactive sources?",
+            "answer": "Precautions include using tongs, maintaining distance, and wearing appropriate PPE.",
+            "page_number": 81
+        },
+        {
+            "question": "What is the purpose of periodic health checks for radiation workers?",
+            "answer": "Health checks monitor potential long-term effects of radiation exposure and ensure worker safety.",
+            "page_number": 82
+        },
+        {
+            "question": "What are the common regulatory agencies overseeing radiological safety?",
+            "answer": "Agencies include the NRC (Nuclear Regulatory Commission) and OSHA (Occupational Safety and Health Administration).",
+            "page_number": 83
+        },
+        {
+            "question": "What role does ventilation play in radiological safety?",
+            "answer": "Ventilation minimizes airborne radioactive contamination and maintains safe air quality.",
+            "page_number": 84
+        },
+        {
+            "question": "What is the importance of labeling radioactive materials?",
+            "answer": "Proper labeling prevents accidental exposure and ensures safe handling and storage.",
+            "page_number": 85
+        },
+        {
+            "question": "What are the benefits of ALARA (As Low As Reasonably Achievable) principles?",
+            "answer": "ALARA principles minimize radiation exposure while balancing operational feasibility and cost.",
+            "page_number": 86
+        },
+        {
+            "question": "How is uranium classified in terms of its radiological and chemical hazards?",
+            "answer": "Uranium poses both radiological risks and chemical toxicity, requiring comprehensive safety measures.",
+            "page_number": 87
+        },
+        {
+            "question": "What is the purpose of Radiation Work Permits (RWPs)?",
+            "answer": "RWPs outline safety requirements, access controls, and procedures for working in radiological areas.",
+            "page_number": 88
+        },
+        {
+            "question": "What is the significance of dose rate measurements?",
+            "answer": "Dose rate measurements ensure compliance with safety limits and identify areas of high radiation.",
+            "page_number": 89
+        },
+        {
+            "question": "What factors influence the biological effects of radiation exposure?",
+            "answer": "Factors include dose, radiation type, exposure duration, and the affected individual's sensitivity.",
+            "page_number": 90
+        },
+        {
+            "question": "How is radiological contamination controlled in workplace settings?",
+            "answer": "Contamination is controlled through proper storage, cleanup protocols, and use of containment systems.",
+            "page_number": 91
+        },
+        {
+            "question": "What is the difference between stochastic and deterministic effects of radiation?",
+            "answer": "Stochastic effects are probabilistic (e.g., cancer risk), while deterministic effects occur above a dose threshold (e.g., burns).",
+            "page_number": 92
+        },
+        {
+            "question": "What is the role of bioassay monitoring in radiological safety?",
+            "answer": "Bioassay monitoring detects internal contamination and assesses radionuclide uptake in the body.",
+            "page_number": 93
+        },
+        {
+            "question": "How does shielding protect workers in radiological environments?",
+            "answer": "Shielding reduces radiation exposure by absorbing or deflecting radiation from the source.",
+            "page_number": 94
+        },
+        {
+            "question": "What safety measures are taken during radioactive material transport?",
+            "answer": "Measures include secure packaging, labeling, and adherence to regulatory guidelines for transport.",
+            "page_number": 95
+        },
+        {
+            "question": "What are the potential risks of inhaling radioactive particles?",
+            "answer": "Inhalation can lead to internal contamination, increasing the risk of tissue damage and cancer.",
+            "page_number": 96
+        },
+        {
+            "question": "What training is required for radiological workers?",
+            "answer": "Training includes radiation protection principles, emergency response, and proper use of PPE.",
+            "page_number": 97
+        },
+        {
+            "question": "What is the purpose of radiation area signage?",
+            "answer": "Signage alerts individuals to radiation risks and provides instructions for safe entry and behavior.",
+            "page_number": 98
+        },
+        {
+            "question": "How are radiation exposure limits determined?",
+            "answer": "Limits are based on scientific research, regulatory guidelines, and risk assessments to protect health.",
+            "page_number": 99
+        },
+        {
+            "question": "What is the importance of record-keeping in radiological protection?",
+            "answer": "Records track exposure levels, training, and incidents to ensure compliance and worker safety.",
+            "page_number": 100
+        },
+        {
+            "question": "How does time management affect radiation exposure?",
+            "answer": "Minimizing time spent in high-radiation areas reduces total exposure.",
+            "page_number": 101
+        },
+        {
+            "question": "What precautions are taken to prevent contamination during maintenance tasks?",
+            "answer": "Precautions include decontamination procedures, use of containment systems, and protective barriers.",
+            "page_number": 103
+        },
+        {
+            "question": "Why is personal hygiene important in radiological areas?",
+            "answer": "Good hygiene prevents the spread of contamination and reduces internal exposure risks.",
+            "page_number": 104
+        }
+    ]
+}

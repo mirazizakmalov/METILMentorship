@@ -1,0 +1,29 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Ignore log files
+*.log
+app.log
+
+
+# Ignore model files (if unnecessary to share)
+models/
+*.bin
+
+
+# Ignore cache and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Ignore output directories
+static/
+templates/__pycache__/
+

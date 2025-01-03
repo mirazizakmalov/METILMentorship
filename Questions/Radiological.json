@@ -1,0 +1,254 @@
+{
+  "questions_and_answers": [
+    {
+      "question": "What is the purpose of radiological safety training?",
+      "answer": "To ensure personnel understand the principles and practices of radiation protection, enabling safe operations in areas with radioactive materials.",
+      "page_number": 1
+    },
+    {
+      "question": "What are the three main principles of radiation protection?",
+      "answer": "Time, distance, and shielding.",
+      "page_number": 2
+    },
+    {
+      "question": "What is ALARA?",
+      "answer": "As Low As Reasonably Achievable, a principle to minimize radiation exposure.",
+      "page_number": 3
+    },
+    {
+      "question": "What is ionizing radiation?",
+      "answer": "Radiation with enough energy to remove tightly bound electrons from atoms, creating ions.",
+      "page_number": 4
+    },
+    {
+      "question": "What are the common sources of ionizing radiation?",
+      "answer": "Natural sources (cosmic rays, radon) and man-made sources (X-rays, nuclear reactors).",
+      "page_number": 5
+    },
+    {
+      "question": "What is a dosimeter?",
+      "answer": "A device used to measure an individual’s exposure to radiation over time.",
+      "page_number": 6
+    },
+    {
+      "question": "What is the annual occupational dose limit for radiation workers?",
+      "answer": "5 rem (50 mSv).",
+      "page_number": 7
+    },
+    {
+      "question": "What are the effects of acute radiation exposure?",
+      "answer": "Symptoms include nausea, vomiting, hair loss, skin burns, and decreased blood cell count.",
+      "page_number": 8
+    },
+    {
+      "question": "What is radioactive contamination?",
+      "answer": "Radioactive material deposited in unwanted places, such as on surfaces, clothing, or skin.",
+      "page_number": 9
+    },
+    {
+      "question": "What are the types of ionizing radiation?",
+      "answer": "Alpha particles, beta particles, gamma rays, and neutron radiation.",
+      "page_number": 10
+    },
+    {
+      "question": "What is the function of shielding in radiation protection?",
+      "answer": "To reduce exposure by placing dense materials, such as lead, between the source and the individual.",
+      "page_number": 11
+    },
+    {
+      "question": "What are the main components of a Radiation Work Permit (RWP)?",
+      "answer": "Scope of work, exposure limits, protective measures, and required monitoring.",
+      "page_number": 12
+    },
+    {
+      "question": "What is the purpose of workplace radiation monitoring?",
+      "answer": "To detect and measure radiation levels, ensuring they remain within safe limits.",
+      "page_number": 13
+    },
+    {
+      "question": "What is the significance of background radiation?",
+      "answer": "It provides the baseline level of natural radiation exposure.",
+      "page_number": 14
+    },
+    {
+      "question": "What is the biological half-life of radioactive materials?",
+      "answer": "The time required for half of a radioactive substance to be eliminated from the body.",
+      "page_number": 15
+    },
+    {
+      "question": "What safety measures are recommended for handling radioactive materials?",
+      "answer": "Using protective equipment, maintaining distance, minimizing exposure time, and using shielding.",
+      "page_number": 16
+    },
+    {
+      "question": "What is the function of a contamination survey?",
+      "answer": "To detect and assess the spread of radioactive contamination in an area.",
+      "page_number": 17
+    },
+    {
+      "question": "What is radon, and why is it significant?",
+      "answer": "A naturally occurring radioactive gas that can accumulate in buildings, posing a health risk.",
+      "page_number": 18
+    },
+    {
+      "question": "What is a controlled area in radiation protection?",
+      "answer": "An area where radiation levels are monitored, and access is restricted to protect individuals.",
+      "page_number": 19
+    },
+    {
+      "question": "What are common methods to decontaminate surfaces?",
+      "answer": "Washing, scrubbing, vacuuming, and chemical cleaning.",
+      "page_number": 20
+    },
+    {
+      "question": "What is the primary use of personal dosimetry?",
+      "answer": "To monitor individual exposure to radiation in real-time.",
+      "page_number": 21
+    },
+    {
+      "question": "What are the long-term effects of radiation exposure?",
+      "answer": "Increased risk of cancer and genetic mutations.",
+      "page_number": 22
+    },
+    {
+      "question": "What are the recommended steps in a radiation emergency?",
+      "answer": "Evacuate, secure the area, notify authorities, and perform decontamination as needed.",
+      "page_number": 23
+    },
+    {
+      "question": "What is the purpose of a Radiological Safety Officer (RSO)?",
+      "answer": "To oversee radiation protection programs and ensure compliance with safety standards.",
+      "page_number": 24
+    },
+    {
+      "question": "What is the purpose of radiation warning signs?",
+      "answer": "To alert individuals to the presence of radiation and ensure appropriate precautions are taken.",
+      "page_number": 25
+    },
+    {
+      "question": "What are the categories of radioactive waste?",
+      "answer": "High-level waste, intermediate-level waste, and low-level waste.",
+      "page_number": 26
+    },
+    {
+      "question": "What is the purpose of a decontamination station?",
+      "answer": "To remove radioactive contamination from personnel, equipment, and materials.",
+      "page_number": 27
+    },
+    {
+      "question": "What are the primary protective measures against alpha radiation?",
+      "answer": "Avoiding inhalation or ingestion and using gloves and face shields.",
+      "page_number": 28
+    },
+    {
+      "question": "What are the effects of chronic radiation exposure?",
+      "answer": "Long-term effects such as cancer, organ damage, and genetic mutations.",
+      "page_number": 29
+    },
+    {
+      "question": "What is the significance of uranium enrichment?",
+      "answer": "It increases the proportion of uranium-235 for use in nuclear reactors or weapons.",
+      "page_number": 30
+    },
+    {
+      "question": "What is neutron radiation, and where is it encountered?",
+      "answer": "Neutral particles that penetrate materials, often encountered in nuclear reactors.",
+      "page_number": 31
+    },
+    {
+      "question": "What is the role of time in radiation protection?",
+      "answer": "Minimizing time spent near a source reduces exposure.",
+      "page_number": 32
+    },
+    {
+      "question": "What is criticality in nuclear safety?",
+      "answer": "A condition where a nuclear chain reaction becomes self-sustaining.",
+      "page_number": 33
+    },
+    {
+      "question": "What are the symptoms of radiation sickness?",
+      "answer": "Nausea, vomiting, fatigue, and burns.",
+      "page_number": 34
+    },
+    {
+      "question": "What is a monitored area?",
+      "answer": "An area where radiation levels are periodically measured to ensure safety.",
+      "page_number": 35
+    },
+    {
+      "question": "What is the importance of calibration in radiation instruments?",
+      "answer": "Ensures accurate measurements of radiation levels.",
+      "page_number": 36
+    },
+    {
+      "question": "What are the main components of radiological safety training?",
+      "answer": "Understanding radiation types, hazards, protective measures, and emergency procedures.",
+      "page_number": 37
+    },
+    {
+      "question": "What is the role of distance in radiation protection?",
+      "answer": "Increasing distance from the source reduces radiation exposure.",
+      "page_number": 38
+    },
+    {
+      "question": "What is uranium hexafluoride (UF6) used for?",
+      "answer": "For uranium enrichment in the nuclear fuel cycle.",
+      "page_number": 39
+    },
+    {
+      "question": "What is the importance of ventilation in radiological areas?",
+      "answer": "To prevent the accumulation of radioactive gases and airborne particles.",
+      "page_number": 40
+    },
+    {
+      "question": "What is the role of shielding in a radiological emergency?",
+      "answer": "To reduce exposure by placing barriers between individuals and the radiation source.",
+      "page_number": 41
+    },
+    {
+      "question": "What are common safety measures for storing radioactive materials?",
+      "answer": "Use of lead containers, restricted access, and proper labeling.",
+      "page_number": 42
+    },
+    {
+      "question": "What is the significance of regular health checks for radiological workers?",
+      "answer": "To monitor for early signs of radiation-related health issues.",
+      "page_number": 43
+    },
+    {
+      "question": "What are common types of personal protective equipment (PPE) for radiological areas?",
+      "answer": "Gloves, face shields, respirators, and lead aprons.",
+      "page_number": 44
+    },
+    {
+      "question": "What is the role of radiological control technicians (RCTs)?",
+      "answer": "To monitor, evaluate, and ensure radiation safety compliance.",
+      "page_number": 45
+    },
+    {
+      "question": "What are the steps in radiation decontamination?",
+      "answer": "Removing contaminated clothing, washing exposed skin, and isolating contaminated materials.",
+      "page_number": 46
+    },
+    {
+      "question": "What is the purpose of a contamination survey?",
+      "answer": "To identify and measure the spread of radioactive contamination.",
+      "page_number": 47
+    },
+    {
+      "question": "What is uranium, and why is it significant?",
+      "answer": "A heavy metal used as a fuel in nuclear reactors and a source of radiation.",
+      "page_number": 48
+    },
+    {
+      "question": "What are the effects of radiation exposure on the human body?",
+      "answer": "Cell damage, increased cancer risk, and potential organ failure.",
+      "page_number": 49
+    },
+    {
+      "question": "What precautions should be taken when transporting radioactive materials?",
+      "answer": "Secure packaging, proper labeling, and adherence to transportation regulations.",
+      "page_number": 50
+    }
+  ]
+}
