@@ -12,7 +12,6 @@ import logging
 import json
 from flask import Flask, jsonify, request
 from sentence_transformers import SentenceTransformer, util
-# from flask_caching import Cache
 from transformers import pipeline
 import torch
 import time
@@ -431,4 +430,3 @@ def internal_error(error):
 
 if __name__ == '__main__':
     app.run(debug=True)
-
