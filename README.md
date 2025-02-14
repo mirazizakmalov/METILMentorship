@@ -59,15 +59,16 @@ Demo Link: https://drive.google.com/file/d/1Haqley4B6C7OcKlvoPSvTooMtxoqWU_h/vie
   source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install dependencies
+   pip install -r requirements.txt
 
-4. Run Flask Server
+5. Run Flask Server
     python app.py
 
-5. Navigate to front end folder
+6. Navigate to front end folder
     cd mentorship-Frontend
 
-6. Donwload dependencies
+7. Donwload dependencies
     npm install
 
-7. Run development server
+8. Run development server
     npm run serve
